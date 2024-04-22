@@ -113,6 +113,7 @@ function Menu() {
 }
 
 function Pizza({ pizzaObj }) {
+
   // console.log(pizzaObj);
   // console.log(props);
 
